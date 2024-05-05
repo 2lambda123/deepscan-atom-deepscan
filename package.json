@@ -79,9 +79,9 @@
     "babel-preset-env": "^1.7.0",
     "atom-linter": "^10.0.0",
     "crypto-random-string": "^1.0.0",
-    "marked": "^1.1.1",
+    "marked": "^12.0.2",
     "dompurify": "^2.0.12",
-    "axios": "^0.19.2",
+    "axios": "^1.6.8",
     "form-data": "^3.0.0"
   },
   "devDependencies": {},
